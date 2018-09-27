@@ -1,0 +1,10 @@
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csprojAssemblyReference.cache
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.Form1.resources
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.Properties.Resources.resources
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csproj.GenerateResource.cache
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csproj.CoreCompileInputs.cache
+D:\yuli\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe.config
+D:\yuli\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe
+D:\yuli\calculatorApp\calculatorApp\bin\Debug\calculatorApp.pdb
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.exe
+D:\yuli\calculatorApp\calculatorApp\obj\Debug\calculatorApp.pdb
